@@ -1,0 +1,4 @@
+packages:
+  github.com/bobheadxi/zapx: go.bobheadxi.dev/zapx
+  github.com/bobheadxi/gobenchdata: go.bobheadxi.dev/x/gobenchdata
+  github.com/bobheadxi/res: go.bobheadxi.dev/x/res
