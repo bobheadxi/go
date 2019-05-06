@@ -1,2 +1,2 @@
 all:
-	twist
+	twist -readme
