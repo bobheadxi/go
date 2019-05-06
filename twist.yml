@@ -2,3 +2,4 @@ packages:
   github.com/bobheadxi/zapx: go.bobheadxi.dev/zapx
   github.com/bobheadxi/gobenchdata: go.bobheadxi.dev/gobenchdata
   github.com/bobheadxi/res: go.bobheadxi.dev/res
+  github.com/bobheadxi/twist: go.bobheadxi.dev/twist
