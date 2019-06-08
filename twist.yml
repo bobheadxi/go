@@ -1,10 +1,17 @@
 packages:
   github.com/bobheadxi/zapx:
     path: go.bobheadxi.dev/zapx
+
   github.com/bobheadxi/gobenchdata:
     path: go.bobheadxi.dev/gobenchdata
     subpackages: [ 'x/gobenchdata-web', 'bench' ]
+
   github.com/bobheadxi/res:
     path: go.bobheadxi.dev/res
+
   github.com/bobheadxi/twist:
     path: go.bobheadxi.dev/twist
+
+  github.com/bobheadxi/ghdb:
+    path: go.bobheadxi.dev/ghdb
+    subpackages: [ 'log', 'github' ]
