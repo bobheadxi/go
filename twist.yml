@@ -15,3 +15,6 @@ packages:
   github.com/bobheadxi/ghdb:
     path: go.bobheadxi.dev/ghdb
     subpackages: [ 'log', 'github' ]
+
+  github.com/bobheadxi/seer:
+    path: go.bobheadxi.dev/seer
