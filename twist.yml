@@ -1,6 +1,7 @@
 packages:
   github.com/bobheadxi/zapx:
     path: go.bobheadxi.dev/zapx
+    subpackages: [ 'zgcp', 'zgql', 'zhttp', 'zpgx', 'ztest' ]
 
   github.com/bobheadxi/gobenchdata:
     path: go.bobheadxi.dev/gobenchdata
