@@ -9,6 +9,7 @@ packages:
 
   github.com/bobheadxi/res:
     path: go.bobheadxi.dev/res
+    subpackages: [ 'base' ]
 
   github.com/bobheadxi/twist:
     path: go.bobheadxi.dev/twist
