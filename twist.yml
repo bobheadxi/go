@@ -24,4 +24,4 @@ packages:
 
   github.com/bobheadxi/streamline:
     path: go.bobheadxi.dev/streamline
-    subpackages: [ 'exec', 'pipe', 'pipeline', 'pipeline/jq' ]
+    subpackages: [ 'jq', 'pipe', 'pipeline', 'streamexec' ]
