@@ -21,3 +21,7 @@ packages:
 
   github.com/bobheadxi/seer:
     path: go.bobheadxi.dev/seer
+
+  github.com/bobheadxi/streamline:
+    path: go.bobheadxi.dev/streamline
+    subpackages: [ 'exec', 'pipe', 'pipeline', 'pipeline/jq' ]
